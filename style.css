@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<head>
+<link rel="stylesheet" href="styles.css">
+</head>
+</head>
+<body>
+
+<!-- Your content goes here -->
+/* Target the div with the class of logo */
+.logo {
+    width: 23%;
+    padding: 1%;
+  }
+  
+  /* Target the HTML nav element */
+  nav {
+    width: 73%;
+    padding: 1%;
+  }
+  
+  /* Align the unordered list to the right */
+  ul {
+    width: 50%;
+    margin-left: auto;
+  }
+  
+  /* Center images inside the logo container */
+  .logo img {
+    text-align: center;
+  }
+  
+  /* Style the hero image section */
+  .heroImg {
+    height: 600px;
+    padding: 25px;
+  }
+  
+  /* Style the content class */
+  .content {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  /* Style the footer */
+  footer {
+    background-color: #373738;
+    padding: 15px; /* Adjust as needed */
+  }
+  
+  /* Style the ul inside the footer */
+  footer ul {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0; /* Remove default padding */
+  }
+  
+  /* Style the li inside the footer */
+  footer li {
+    padding: 0 10px; /* Adjust as needed */
+  }
+  
+</body>
+</html>
